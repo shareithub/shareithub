@@ -5,12 +5,12 @@
 Bergabunglah dengan kami dan mulailah perjalanan blockchain-mu! 🚀
 
 ### 📚 Apa yang Kamu Temukan di Sini:
-- **Airdrop**: Panduan untuk mendapatkan token gratis.
-- **Node**: Cara menyiapkan dan menjalankan node blockchain.
-- **Testnet**: Belajar cara berpartisipasi dalam pengujian jaringan.
+- **Airdrop** : Panduan untuk mendapatkan token gratis.
+- **Node** : Cara menyiapkan dan menjalankan node blockchain.
+- **Testnet** : Belajar cara berpartisipasi dalam pengujian jaringan.
 
 ### 💬 Bergabung dengan Komunitas:
-- **Telegram**: [Telegram Channel](https://t.me/SHAREITHUB_COM)
-- **YouTube**: [Youtube Channel](www.youtube.com/@SHAREITHUB_COM)
+- **Telegram** : [Telegram Channel](https://t.me/SHAREITHUB_COM)
+- **YouTube** : [Youtube Channel](www.youtube.com/@SHAREITHUB_COM)
 
 Terima kasih sudah mampir! Jangan ragu untuk berdiskusi, bertanya, atau berbagi pengalaman di komunitas kami! 😄
