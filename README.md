@@ -16,6 +16,8 @@ Bergabunglah dengan kami dan mulailah perjalanan blockchain-mu! 🚀
 
 ### 💬 Bergabung dengan Komunitas:
 - **Telegram** : [Telegram Channel](https://t.me/SHAREITHUB_COM)
+
 - **YouTube** : [Youtube Channel](www.youtube.com/@SHAREITHUB_COM)
+   ![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCUvH2S-T6T_hc7DjxhVd28A?style=flat-square&label=Subscribers&logo=youtube)
 
 Terima kasih sudah mampir! Jangan ragu untuk berdiskusi, bertanya, atau berbagi pengalaman di komunitas kami! 😄
