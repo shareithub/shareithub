@@ -1,4 +1,9 @@
 # 👋 Selamat Datang di **SHARE IT HUB**!
+## 📊 **Statistik GitHub**
+
+Lihatlah seberapa aktif aku di GitHub! 🚀✨
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shareithub&show_icons=true&count_private=true&hide=prs&hide_title=true&hide_border=true&theme=radical)
 
 **SHARE IT HUB** adalah tempat terbaik untuk mempelajari dunia blockchain. Di sini, kamu akan menemukan berbagai tutorial dan panduan tentang **Airdrop**, **Node**, dan **Testnet**. Kami membagikan langkah-langkah praktis untuk membantu kamu mendapatkan token gratis, mengatur node blockchain, dan berpartisipasi dalam pengujian testnet.
 
